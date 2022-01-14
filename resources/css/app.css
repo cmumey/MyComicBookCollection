@@ -1,0 +1,13 @@
+:root {
+    --button-color: black;
+}
+
+#button-light-purple {
+    background-color: var(--button-color);
+}
+
+nav {
+    background-color: white !important;
+    border-style: solid;
+}
+
